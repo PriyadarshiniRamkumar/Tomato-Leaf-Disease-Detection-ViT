@@ -5,7 +5,7 @@
 **Advanced Architecture:** Implemented a **Vision Transformer (ViT)** using **Self-Attention** to capture global spatial dependencies.
 **Efficiency:** Optimized with **Swin-Transformer and quantization** for edge devices.
 
-## 🛠 Technical Details
+##  Technical Details
 **Dataset:** Utilized and augmented the **Plant Village** dataset for robust model training.
 **Classification:** Effectively discriminates between **7+ visually similar disease types.
 **Analysis:** Validated decisions through **attention map analysis** to focus on key disease characteristics.
